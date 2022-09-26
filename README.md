@@ -4,16 +4,16 @@
 
 # Pac-Man Factory
 
-<img src="pacman.png" width:'300px'>
+<img src="pacman.png" width='300px'>
 
 # Eye Movement
 
-<img src="eye.png" width:'300px'>
+<img src="eye.png" width='300px'>
 
 # Real Time Bus Tracker
 
-<img src="bustracker.png" width:'300px'>
+<img src="bustracker.png" width='300px'>
 
 # Towers of Hanoi
 
-<img src="tower.png" width:'300px'>
+<img src="tower.png" width='300px'>
