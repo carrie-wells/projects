@@ -4,7 +4,7 @@
 
 # Pac-Man Factory
 
-<img src="pacman1.png" width='300px'>
+<img src="PacMan1.png" width='300px'>
 
 # Eye Movement
 
